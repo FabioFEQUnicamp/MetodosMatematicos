@@ -9,7 +9,7 @@ import math #Importa a biblioteca de matemática do python
 import time
 
 
-h = float(input("Insira altura inicial"))
+h = float(input("Insira altura inicial: "))
 R = 3
 V = 30
 

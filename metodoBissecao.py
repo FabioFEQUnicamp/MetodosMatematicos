@@ -1,8 +1,10 @@
 '''
 Implementação do método da bisseção - com relação ao problema proposto em sala de volume do reservatório
-Alunos: Fábio Menslin e Alcione Freitas
+Alunos: Fábio Menslin, Alcione Freitas e Hezb Ullah
+RA: 289297, 289288, 290405
 Implementação em Python
 '''
+
 import math
 
 R = 3.0 #Define o raio do reservatório
